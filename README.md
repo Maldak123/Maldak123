@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá! 👋
 
-<!--
-**Maldak123/Maldak123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi! Eu sou o **Miguel**, sejam bem-vindos a minha página!!
 
-Here are some ideas to get you started:
+Atualmente, estou cursando Engenharia de Software na FIAP. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Ferramentas:**
+<br>
+
+<div style="display: inline-block;">
+  <img max-width=100% height=60px src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
+  <img max-width=100% height=60px src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
+  <img max-width=100% height=60px src="https://img.icons8.com/color/512/javascript.png"/>
+  <img max-width=100% height=60px src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
+</div>
+<br><br>
+
+<ul type="rounded">
+  <li>📖 Conheci o mundo da programação a cerca de 2 anos.</li>
+  <li>💻 Tenho um pouco de experiência em HTML e CSS, e no momento estou focando em JavaScript e Python.</li>
+  <li>🛠 Não tenho nenhum projeto para exibir no momento, mas pretendo desenvolvê-los enquanto estudo.</li>
+</ul>
+<br>
+
+<div align=center>
+   <img style='width=50px height=10px' src="https://github-readme-streak-stats.herokuapp.com?user=Maldak123&theme=shadow_red&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Maldak123&layout=compact&theme=shadow_red' alt="Most Used Languages"/>
+  <img src='https://github-readme-stats.vercel.app/api/?username=Maldak123&layout=compact&theme=shadow_red' alt="Most Used Languages"/>
+</div>
