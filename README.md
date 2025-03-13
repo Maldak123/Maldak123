@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Eu sou o **Miguel**, sejam bem-vindos a minha página!!
+Eu sou o **Miguel**, sejam bem-vindos a minha página!
 
 Atualmente, estou cursando Engenharia de Software na FIAP. 
 <br>
