@@ -17,13 +17,13 @@ Atualmente, estou cursando Engenharia de Software na FIAP.
 
 <ul type="rounded">
   <li>📖 Conheci o mundo da programação a cerca de 2 anos.</li>
-  <li>💻 Tenho um pouco de experiência em HTML e CSS, e no momento estou focando em JavaScript e Python.</li>
+  <li>💻 Tenho experiência em HTML e CSS, e no momento estou focando em JavaScript e Python.</li>
   <li>🛠 Não tenho nenhum projeto para exibir no momento, mas pretendo desenvolvê-los enquanto estudo.</li>
 </ul>
 <br>
 
-<div align=center>
-   <img style='width=50px height=10px' src="https://github-readme-streak-stats.herokuapp.com?user=Maldak123&theme=shadow_red&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Maldak123&layout=compact&theme=shadow_red' alt="Most Used Languages"/>
-  <img src='https://github-readme-stats.vercel.app/api/?username=Maldak123&layout=compact&theme=shadow_red' alt="Most Used Languages"/>
+<div align="center" dir="auto">
+  <img width=33%  src='https://github-readme-stats.vercel.app/api/?username=Maldak123&layout=compact&theme=shadow_red' alt="Profile Stats"/>
+   <img width=33% src="https://github-readme-streak-stats.herokuapp.com?user=Maldak123&theme=shadow_red&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img width=33% src='https://github-readme-stats.vercel.app/api/top-langs/?username=Maldak123&layout=compact&theme=shadow_red' alt="Most Used Languages"/>
 </div>
