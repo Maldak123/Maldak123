@@ -17,7 +17,7 @@ Atualmente, estou cursando Engenharia de Software na FIAP.
 <ul type="rounded">
   <li>📖 Conheci o mundo da programação a cerca de 2 anos.</li>
   <li>💻 Tenho experiência em HTML e CSS, e no momento estou focando em JavaScript e Python.</li>
-  <li>🛠 Não tenho nenhum projeto para exibir no momento, mas pretendo desenvolvê-los enquanto estudo.</li>
+  <li>🛠 Pretendo desenvolver projetos enquanto evoluo meus conhecimentos.</li>
 </ul>
 <br>
 
