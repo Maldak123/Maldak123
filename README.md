@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Oi! Eu sou o **Miguel**, sejam bem-vindos a minha página!!
+Eu sou o **Miguel**, sejam bem-vindos a minha página!!
 
 Atualmente, estou cursando Engenharia de Software na FIAP. 
 <br>
@@ -10,6 +10,7 @@ Atualmente, estou cursando Engenharia de Software na FIAP.
   <img max-width=100% height=60px src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
   <img max-width=100% height=60px src="https://img.icons8.com/color/512/javascript.png"/>
   <img max-width=100% height=60px src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
+  <img max-width=100% height=60px src="https://img.icons8.com/color/512/git.png"/>
 </div>
 <br><br>
 
