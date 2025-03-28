@@ -1,12 +1,10 @@
 ## Olá! 👋
 
 Eu sou o **Miguel**, sejam bem-vindos a minha página!
-
-Atualmente, estou cursando Engenharia de Software na FIAP. 
 <br>
 
 <ul type="rounded">
-  <li>📖 Conheci o mundo da programação a cerca de 2 anos.</li>
+  <li>📖 Atualmente estou cursando Engenharia de Software na FIAP.</li>
   <li>💻 Tenho experiência em HTML e CSS, e no momento estou focando em JavaScript e Python.</li>
   <li>🛠 Pretendo desenvolver projetos enquanto evoluo meus conhecimentos.</li>
 </ul>
