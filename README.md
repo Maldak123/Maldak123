@@ -26,7 +26,7 @@ Atualmente, estou cursando Engenharia de Software na FIAP.
 ## Meus Stats 📈
 <br>
 <div align="center" dir="auto">
-  <img width=33% src='https://github-readme-stats.vercel.app/api/?username=Maldak123&layout=compact&theme=shadow_red' alt="Profile Stats"/>
-  <img width=33% src="https://github-readme-streak-stats-iota-lac.vercel.app?user=Maldak123&theme=shadow-red&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <img height=33% src='https://github-readme-stats.vercel.app/api/top-langs/?username=Maldak123&layout=compact&theme=shadow_red' alt="Most Used Languages"/>
+  <img width=40% src='https://github-readme-stats.vercel.app/api/?username=Maldak123&layout=compact&theme=shadow_red' alt="Profile Stats"/>
+  <img width=40% src="https://github-readme-streak-stats-iota-lac.vercel.app?user=Maldak123&theme=shadow-red&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img width=30% src='https://github-readme-stats.vercel.app/api/top-langs/?username=Maldak123&layout=compact&theme=shadow_red' alt="Most Used Languages"/>
 </div>
