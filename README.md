@@ -21,6 +21,8 @@ Atualmente, estou cursando Engenharia de Software na FIAP.
 </ul>
 <br>
 
+## Meus Stats 📈
+<br>
 <div align="center" dir="auto">
   <img width=50% src='https://github-readme-stats.vercel.app/api/?username=Maldak123&layout=compact&theme=shadow_red' alt="Profile Stats"/>
   <img width=49% src="https://github-readme-streak-stats-iota-lac.vercel.app?user=Maldak123&theme=shadow-red&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
