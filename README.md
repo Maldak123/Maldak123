@@ -8,7 +8,6 @@ Eu sou o **Miguel**, sejam bem-vindos a minha página!
   <li>💻 Tenho experiência em HTML e CSS, e no momento estou focando em JavaScript e Python.</li>
   <li>🛠 Pretendo desenvolver projetos enquanto evoluo meus conhecimentos.</li>
 </ul>
-<br>
 
 ## Linguagens e Ferramentas 💻
 <br>
@@ -19,7 +18,6 @@ Eu sou o **Miguel**, sejam bem-vindos a minha página!
   <img max-width=100% height=60px src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
   <img max-width=100% height=60px src="https://img.icons8.com/color/512/git.png"/>
 </div>
-<br>
 
 ## Meus Stats 📈
 <br>
