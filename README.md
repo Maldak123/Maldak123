@@ -1,15 +1,15 @@
-## Olá! 👋
+## Hi! 👋
 
-Eu sou o **Miguel**, sejam bem-vindos a minha página!
+I'm **Miguel**, welcome to my page!
 <br>
 
 <ul type="rounded">
-  <li>📖 Atualmente estou cursando Engenharia de Software na FIAP.</li>
-  <li>💻 Tenho experiência em HTML e CSS, e no momento estou focando em JavaScript e Python.</li>
-  <li>🛠 Pretendo desenvolver projetos enquanto evoluo meus conhecimentos.</li>
+  <li>📖 I'm currently studying Software Engineering at FIAP!</li>
+  <li>💻 I have HTML and CSS experience, and at the moment I'm focusing on JavaScript and Python.</li>
+  <li>🛠 I pretend to create projects while I evolue my knowledge.</li>
 </ul>
 
-## Linguagens e Ferramentas 💻
+## Tools and Languages 💻
 <br>
 <div style="display: inline-block;">
   <img max-width=100% height=60px src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
@@ -19,7 +19,7 @@ Eu sou o **Miguel**, sejam bem-vindos a minha página!
   <img max-width=100% height=60px src="https://img.icons8.com/color/512/git.png"/>
 </div>
 
-## Meus Stats 📈
+## My Stats 📈
 <br>
 <div align="center" dir="auto">
   <img width=49% src='https://github-readme-stats.vercel.app/api/?username=Maldak123&layout=compact&theme=codeSTACKr' alt="Profile Stats"/>
