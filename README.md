@@ -12,11 +12,15 @@ I'm **Miguel**, welcome to my page!
 ## Tools and Languages 💻
 <br>
 <div style="display: inline-block;">
-  <img max-width=100% height=60px src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
-  <img max-width=100% height=60px src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
-  <img max-width=100% height=60px src="https://img.icons8.com/color/512/javascript.png"/>
-  <img max-width=100% height=60px src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
-  <img max-width=100% height=60px src="https://img.icons8.com/color/512/git.png"/>
+  
+  <img max-width=100% height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img max-width=100% height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img max-width=100% height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img max-width=100% height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img max-width=100% height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img max-width=100% height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img max-width=100% height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+           
 </div>
 
 ## My Stats 📈
