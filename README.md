@@ -13,7 +13,7 @@ I'm **Miguel**, welcome to my page!
 <br>
 <div style="display: inline-block;">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,python,git,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,python,git,figma,arduino)](https://skillicons.dev)
 </div>
 
 ## My Stats 📈
