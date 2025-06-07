@@ -20,7 +20,7 @@ I'm **Miguel**, welcome to my page!
 <br>
 <div align="center" dir="auto">
 <!--   <img width=49% src='https://github-readme-stats.vercel.app/api/?username=Maldak123&layout=compact&theme=codeSTACKr' alt="Profile Stats"/> -->
-  <img width=50% src="https://github-readme-streak-stats-iota-lac.vercel.app?user=Maldak123&theme=codeSTACKr&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="GitHub Streak" />
+  <img src='https://streak-stats.demolab.com/?user=Maldak123&theme=codeSTACKr&hide_border=true'/>
   <img width=44% src='https://github-readme-stats.vercel.app/api/top-langs/?username=Maldak123&layout=compact&theme=codeSTACKr&hide_border=true' alt="Most Used Languages"/>
 </div>
 
