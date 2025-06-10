@@ -6,7 +6,7 @@ I'm **Miguel**, welcome to my page!
 <ul type="rounded">
   <li>📖 I'm currently studying Software Engineering at FIAP!</li>
   <li>💻 I have experience in Front-End Development, but I'm always looking to learn more!</li>
-  <li>🛠 I pretend to create projects while I evolue my knowledge.</li>
+  <li>🛠 I'm also doing a Back-End Java Bootcamp from Santander, in partnership with Dio!</li>
 </ul>
 
 ## Tools and Languages 💻
