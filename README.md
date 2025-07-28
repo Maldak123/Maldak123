@@ -12,9 +12,7 @@ I'm **Miguel**, welcome to my page!
 
 ## My Stats 📈
 
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Maldak123&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
-  <img width="44%" src="https://github-readme-stats-maldak123s-projects.vercel.app/api/top-langs/?username=Maldak123&layout=compact&theme=codeSTACKr&hide_border=true" alt="Most Used Languages"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Maldak123&theme=codestackr&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 *If you can't see some stat, probably it's broken and it should come back soon!*
