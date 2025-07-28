@@ -3,8 +3,8 @@
 I'm **Miguel**, welcome to my page!
 
 * 📖 I'm currently studying Software Engineering at FIAP!
-* 💻 I have experience in Front-End Development, but I'm always looking to learn more!
-* 🛠 I'm also doing a Back-End Java Bootcamp from Santander, in partnership with Dio!
+* 💻 I have some experience in Front-End Development, but I'm studying to became a Full-Stack developer!
+* 🛠 I'm currently studying Java!
 
 ## Tools and Languages 💻
 
