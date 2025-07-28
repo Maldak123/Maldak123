@@ -14,7 +14,7 @@ I'm **Miguel**, welcome to my page!
 
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com/?user=Maldak123&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
-<!--   <img width="44%" src="https://github-readme-stats-maldak123s-projects.vercel.app/api/top-langs/?username=Maldak123&layout=compact&theme=codeSTACKr&hide_border=true" alt="Most Used Languages"/> -->
+  <img width="44%" src="https://github-readme-stats-maldak123s-projects.vercel.app/api/top-langs/?username=Maldak123&layout=compact&theme=codeSTACKr&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 *If you can't see some stat, probably it's broken and it should come back soon!*
