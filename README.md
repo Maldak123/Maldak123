@@ -8,7 +8,7 @@ I'm **Miguel**, welcome to my page!
 
 ## Tools and Languages 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,python,git,figma,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,java,spring,python,git,figma,arduino)](https://skillicons.dev)
 
 ## My Stats 📈
 
