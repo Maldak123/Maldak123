@@ -12,7 +12,7 @@ I'm **Miguel**, welcome to my page!
 
 ## My Stats 📈
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Maldak123&theme=codestackr&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=195)](https://git.io/streak-stats)
+[![Maldak123's GitHub Streak](https://streak-stats.demolab.com?user=Maldak123&theme=codestackr&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=165)](https://git.io/streak-stats)
 ![Maldak123's GitHub stats](https://github-readme-stats-amber-seven-41.vercel.app/api/top-langs/?username=Maldak123&layout=compact&theme=codeSTACKr&hide_border=true)
 
 
