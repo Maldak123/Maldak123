@@ -17,3 +17,9 @@ I'm **Miguel**, welcome to my page!
 
 
 *If you can't see some stat, probably it's broken and it should come back soon!*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maldak123/Maldak123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maldak123/Maldak123/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Maldak123/Maldak123/output/pacman-contribution-graph.svg">
+</picture>
