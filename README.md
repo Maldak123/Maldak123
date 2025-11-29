@@ -6,9 +6,13 @@ I'm **Miguel**, welcome to my page!
 * 💻 I have some experience in Front-End Development, but I'm studying to became a Full-Stack developer!
 * 🛠 I'm currently studying Java!
 
-## Tools and Languages 💻
+## Languages and Frameworks 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,astro,java,spring,python,postman,git,figma,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,astro,java,spring,python)](https://skillicons.dev)
+
+## Tools 🛠️
+
+[![My Tools](https://skillicons.dev/icons?i=postman,git,figma,arduino)](https://skillicons.dev)
 
 ## My Stats 📈
 
