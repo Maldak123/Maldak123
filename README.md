@@ -3,8 +3,8 @@
 I'm **Miguel**, welcome to my page!
 
 * 📖 I'm currently studying Software Engineering at FIAP!
-* 💻 I have some experience in Front-End Development, but I'm studying to became a Full-Stack developer!
-* 🛠 I'm currently studying Java!
+* 💻 I have some experience in Front-End Development
+* 🛠 I am currently studying AI! (specifically RAG at the moment)
 
 ## Languages and Frameworks 💻
 
@@ -12,7 +12,7 @@ I'm **Miguel**, welcome to my page!
 
 ## Tools 🛠️
 
-[![My Tools](https://skillicons.dev/icons?i=postman,git,figma,arduino)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=postman,git,figma)](https://skillicons.dev)
 
 ## My Stats 📈
 
