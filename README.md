@@ -8,11 +8,11 @@ I'm **Miguel**, welcome to my page!
 
 ## Languages and Frameworks 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,astro,java,spring,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,astro,python,fastapi)](https://skillicons.dev)
 
 ## Tools 🛠️
 
-[![My Tools](https://skillicons.dev/icons?i=postman,git,figma)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=postman,git,figma,redis)](https://skillicons.dev)
 
 ## My Stats 📈
 
